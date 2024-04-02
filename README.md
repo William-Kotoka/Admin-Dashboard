@@ -1,6 +1,6 @@
-M-TEK
+#M-TEK
 
-Description about M-TEK
+##Description about M-TEK
 
 M-TEK is a project that showcases a dynamic Admin Dashboard created using HTML, CSS and JAVASCRIPT. 
 The dashboard is designed with an intuitive layout, utilizing CSS Grid for seamless organization.
